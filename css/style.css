@@ -8,7 +8,9 @@
   width: 1024px;
   margin: auto;
 }
-
+.highlights {
+  background-color: yellow;
+}
 /* header */
 header {
   background-color: aquamarine;
@@ -43,4 +45,10 @@ main {
 }
 .caption {
   font-size: 10px;
+}
+.article-body {
+  margin-top: 20px;
+}
+.list {
+  margin-top: 20px;
 }
